@@ -1,3 +1,5 @@
+### Requirements
+
 Develop REST APIs for a Cat Adoption application.
 
 login - login, logout
@@ -30,5 +32,6 @@ completed.
 * Zip the git repo and share it with the recruiter you are in contact with when you are done.
 
 
-#### Note
-Postman collection attached
+#### Author notes
+- Postman collection attached
+- `npm install`, `npm run dev` for dev mode, `npm run test` for testcases, `npm run test:coverage` for code coverage
